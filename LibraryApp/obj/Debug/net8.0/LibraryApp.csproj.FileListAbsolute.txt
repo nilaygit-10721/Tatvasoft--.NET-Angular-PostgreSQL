@@ -1,0 +1,29 @@
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/bin/Debug/net8.0/LibraryApp
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/bin/Debug/net8.0/LibraryApp.deps.json
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/bin/Debug/net8.0/LibraryApp.runtimeconfig.json
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/bin/Debug/net8.0/LibraryApp.dll
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/bin/Debug/net8.0/LibraryApp.pdb
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.AssemblyInfoInputs.cache
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.AssemblyInfo.cs
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.csproj.CoreCompileInputs.cache
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.sourcelink.json
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.dll
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/refint/LibraryApp.dll
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.pdb
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/LibraryApp.genruntimeconfig.cache
+/Users/anushkasurmawala/Desktop/TatvaSoft/DotNet/LibraryApp/obj/Debug/net8.0/ref/LibraryApp.dll
+B:\angular\New folder\DotNet\DotNet\LibraryApp\bin\Debug\net8.0\LibraryApp.exe
+B:\angular\New folder\DotNet\DotNet\LibraryApp\bin\Debug\net8.0\LibraryApp.deps.json
+B:\angular\New folder\DotNet\DotNet\LibraryApp\bin\Debug\net8.0\LibraryApp.runtimeconfig.json
+B:\angular\New folder\DotNet\DotNet\LibraryApp\bin\Debug\net8.0\LibraryApp.dll
+B:\angular\New folder\DotNet\DotNet\LibraryApp\bin\Debug\net8.0\LibraryApp.pdb
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.AssemblyInfoInputs.cache
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.AssemblyInfo.cs
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.csproj.CoreCompileInputs.cache
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.dll
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\refint\LibraryApp.dll
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.pdb
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\LibraryApp.genruntimeconfig.cache
+B:\angular\New folder\DotNet\DotNet\LibraryApp\obj\Debug\net8.0\ref\LibraryApp.dll
